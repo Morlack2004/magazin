@@ -1,8 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.example.springmodels.SpringModelsApplicationTests
 -------------------------------------------------------------------------------
-<<<<<<< HEAD
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.268 s - in com.example.springmodels.SpringModelsApplicationTests
-=======
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.792 s - in com.example.springmodels.SpringModelsApplicationTests
->>>>>>> 2d613a652c9a48e4cbbd68b3485a13a32c706316
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.607 s - in com.example.springmodels.SpringModelsApplicationTests
